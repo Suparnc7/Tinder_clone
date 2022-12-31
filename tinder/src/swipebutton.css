@@ -1,0 +1,32 @@
+.swipebutton{
+    position: fixed;
+    bottom: 5vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.swipebutton .sw_btn_repeat{
+    color: #f5b748 !important;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+
+.swipebutton .sw_btn_left{
+    color: #ec5e6f !important;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+
+.swipebutton .sw_btn_star{
+    color: #62b4f9 !important;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+
+.swipebutton .sw_btn_right{
+    color: #76e2b3 !important;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+
+.swipebutton .sw_btn_light{
+    color: #915dd1 !important;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
